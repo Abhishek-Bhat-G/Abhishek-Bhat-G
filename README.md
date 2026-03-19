@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%" height="260px" style="object-fit:cover;" />
+<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%" height="460px" style="object-fit:cover;" />
 </div>
 
 <br/>
@@ -75,9 +75,9 @@ Status    →  Building cool stuff, one model at a time 🚀
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [🛒 Product Price Predictor](https://github.com/Abhishek-Bhat-G) | Multimodal ML pipeline predicting product prices from text + images | `Python` `LightGBM` `EfficientNet` `SentenceTransformers` |
-| [🤖 Project Name](https://github.com/Abhishek-Bhat-G) | Short description of what it does | `PyTorch` `Transformers` |
-| [🎮 Hand Gesture Gaming](https://github.com/Abhishek-Bhat-G) | A unique method of playing game using only hand gestures instead of traditional consoles. | `Python` `OpenCV` |
+| [🛒 Product Price Predictor](https://github.com/Abhishek-Bhat-G\Product-Pricing) | Multimodal ML pipeline predicting product prices from text + images. | `Python` `LightGBM` `EfficientNet` `SentenceTransformers` |
+| [🤖 3D Data Processing](https://github.com/Abhishek-Bhat-G\3D-Data-Processing) | Explores the effects of different normalization and quantization techniques on 3D mesh (.obj) files. It provides a step-by-step pipeline. | `Pandas` `Numpy` `Trimesh` |
+| [🎮 Hand Gesture Gaming](https://github.com/Abhishek-Bhat-G\HandGesture_Keybind) | A unique method of playing game using only hand gestures instead of traditional consoles. | `PyAutoGUI` `OpenCV` `Mediapipe` |
 
 </div>
 
