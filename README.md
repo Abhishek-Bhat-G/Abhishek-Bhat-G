@@ -54,7 +54,6 @@ Status    →  Building cool stuff, one model at a time 🚀
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=00FFFF)
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=00FFFF)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=00FFFF)
-![LightGBM](https://img.shields.io/badge/LightGBM-0d1117?style=for-the-badge&logo=lightgbm&logoColor=00FFFF)
 ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=00FFFF)
 ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=00FFFF)
 
